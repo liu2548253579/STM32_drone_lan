@@ -1,0 +1,14 @@
+Added Component: Designator=U3(2.4GMODLE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "DreamLNK(ø•Í ø∆ºº)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "M-BK2461U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C2837202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "M-BK2461U"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=U3-1
+Added Pin To Net: NetName=TXD Pin=U3-2
+Added Pin To Net: NetName=RXD Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Member To Class: ClassName=WIRELESS_UART Member=Component U3 M-BK2461U

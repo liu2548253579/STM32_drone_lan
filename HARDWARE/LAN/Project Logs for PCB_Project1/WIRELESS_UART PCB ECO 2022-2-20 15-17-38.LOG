@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RXD Pin=SWD1-2
+Removed Pin From Net: NetName=TXD Pin=SWD1-3
+Added Pin To Net: NetName=TXD Pin=SWD1-2
+Added Pin To Net: NetName=RXD Pin=SWD1-3
+Added Room: Name=WIRELESS_UART
